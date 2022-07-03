@@ -1,7 +1,7 @@
 {
   "type": "kiln:firing",
   "ingredient": {
-    "item": "minecraft:sand"
+    "tag": "minecraft:sand"
   },
   "result": "minecraft:glass",
   "experience": 0.1,
